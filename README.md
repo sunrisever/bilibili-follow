@@ -2,7 +2,7 @@ English | [简体中文](README_CN.md)
 
 # Bilibili Follow Classifier
 
-> AI-assisted Bilibili follow classifier and group sync | B站关注 UP 主 AI 辅助分类与分组同步工具
+> AI-assisted Bilibili follow classifier and group sync | AI 辅助的 B站关注 UP 主分类与分组同步工具
 
 Organize a large Bilibili follow list into practical groups such as exam prep, AI, programming, math, news, or entertainment. This project fetches profile and content signals for each followed UP master, scores them with your rule set, and syncs the final categories back to Bilibili follow groups.
 
